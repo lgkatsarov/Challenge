@@ -1,0 +1,8 @@
+Thinking step-by-step I need to find a solution for out new project - Social platform with millions of users. I need to decide what database to use for the implementation, taking into account the following requirements:
+
+- It needs to store profiles, posts, and connections between users
+- It is required to have high data read speed
+- It is expected to have 80% read operations and 20% write operations
+- It need to support easy scalability, as we expect fast user base growth
+
+I need to make the best possible unformatted decision
