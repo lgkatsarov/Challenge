@@ -1,0 +1,9 @@
+As a QA engineer, I often encounter bugs, that I describe with short notes. For the development process tracking system however, every bug needs to be described following this exact structure:
+Title
+Description
+Steps to Reproduce
+Expected vs Actual Behavior
+Environment (if known)
+Severity or Impact
+
+Here is a short note on a bug a recently encounter: When updating nearest store from the map in Store finder page, store name in the nav menu is not updated until page is manually refreshed

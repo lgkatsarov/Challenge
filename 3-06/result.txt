@@ -1,0 +1,34 @@
+Here's your short bug note converted into a full bug report using the required structure:
+
+Title:
+Store name in nav menu not updated after changing nearest store from map on Store Finder page
+
+Description:
+When a user updates their nearest store using the map on the Store Finder page, the store name displayed in the navigation menu remains unchanged. It only reflects the updated store name after the page is manually refreshed, which can confuse users about which store they are interacting with.
+
+Steps to Reproduce:
+
+Go to the Store Finder page.
+
+Use the map to select and set a new nearest store.
+
+Observe the store name displayed in the navigation menu.
+
+Expected vs Actual Behavior:
+
+Expected: The navigation menu should immediately display the updated nearest store name after selection.
+
+Actual: The store name in the navigation menu does not update until the page is manually refreshed.
+
+Environment (if known):
+
+Browser: Chrome 124
+
+OS: Windows 11
+
+Affected on both staging and production
+
+Logged-in user
+
+Severity or Impact:
+Moderate — UI inconsistency that may lead to user confusion, especially when store-specific features or inventory are involved.
